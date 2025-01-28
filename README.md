@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oiii, meu nome é Arthur Américo e seja bem vindo ao meu perfil do GitHub 👋
 
 <!--
 **intentdoor/intentdoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Snake animation](https://github.com/intentdoor/intentdoor/blob/output/github-contribution-grid-snake.svg)
