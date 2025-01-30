@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16F0F0&height=120&section=header"/>
+
 ## Oiii, meu nome é Arthur Américo e seja bem vindo ao meu perfil do GitHub 👋
 
 
